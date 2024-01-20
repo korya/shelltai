@@ -1,6 +1,6 @@
 # ShelltAI
 
-An AI wrapper for a Unix shell, https://en.wikipedia.org/wiki/Unix_shell, assisting developers.
+An AI wrapper for your [Unix shell](https://en.wikipedia.org/wiki/Unix_shell).
 
 TODO:
 
